@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Project Python 
 
-[Project 1 Title](/sample_page)
+[Project 1 - Adventure Game](https://github.com/upperAdd/Adventure-Game-DA_week-2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
