@@ -5,7 +5,7 @@
 ### Project Python 
 
 [Project 1 - Adventure Game](https://github.com/upperAdd/Adventure-Game-DA_week-2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/adventure game.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
