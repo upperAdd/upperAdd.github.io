@@ -5,9 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I hope you enjoy seeing Titi's progress and effort through her Github page while this portfolio on progress. Titi's look forward to any feedback to help her improve her skills.
   <br><br>
-  <a href="https://www.kaggle.com/upperadd">View My Kaggle Profile</a> 
+  <a> href="https://www.kaggle.com/upperadd">View My Kaggle Profile</a> 
    <br><br>
-  <p><a href="https://www.linkedin.com/in/titi-p-268161243/">View My LinkedIn Profile</a></p>
+   <p><a> href="https://github.com/upperAdd">View My Github Profile</a></p>
+   <br><br>
+  <p><a> href="https://www.linkedin.com/in/titi-p-268161243/">View My LinkedIn Profile</a></p>
    <br><br>
   
 theme: jekyll-theme-minimal
