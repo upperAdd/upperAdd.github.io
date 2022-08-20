@@ -11,6 +11,9 @@
 ---
 
 ---
+## Bootcamps Projects
+<p align ="justify"> Below are most of the projects I learn through bootcamps, from introducing python as a programming language to machine learning.</p>
+
 ---
 ### Time Series Analysis  -  Electricity Wholesale prediction price
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/final-project)
