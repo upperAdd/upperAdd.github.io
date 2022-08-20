@@ -1,5 +1,7 @@
-# PORTFOLIO
-### A sample of my project
+# PORTFLIO
+## The Sample of My Projects
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -22,7 +24,8 @@
 ### Data Visualisation -  EarthQuake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">This project is my first assignment to do data preprocessing.We use dataset Earthquake from Kaggle. At beginning after we import libraries and dataset, likewise we clean our dataset and then change the datetime formatinto</p>
+<p align="justify">This project is my first assignment doing data pre-processing and data visualisation. We use the dataset from Kaggle. In data science, data pre-processing refers to the step from extracting a dataset from the source until we clean our dataset from any duplicated or missing values. After that, our dataset is ready to explore or what we used to call Exploratory Data Analysis. On my first EDA that showed on my pie chart, I checked the top five locations with the biggest magnitude and if those locations were under the “Ring of Fire” or just in the most seismic region. Astonishingly based on exploration data, those locations are not the most frequently intense tectonic activities. The top five locations where earthquakes often occur in sequences were in the same county in America, CA, with 3 locations in the same place, “The Geysers”.
+</p>
 <center><img src="images/DV assignment.png?raw=true"/></center>
 
 ---
