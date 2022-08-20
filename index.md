@@ -23,7 +23,7 @@
 #### EarthQuake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 <p align="justify">This project is my first assignment to do data preprocessing.We use dataset Earthquake from Kaggle,</p>
-<center><img src="images/adventure game.png?raw=true"/></center>
+<center><img src="images/?raw=true"/></center>
 
 ---
 ### Python Game
@@ -32,4 +32,5 @@
 <p align="justify">This project is my favourite assignment to learn python as a programming language. We need to create adventure games that make the reader try to go into several rooms and have some blockage on the way out. I created this game inspired by Alice in Wonderland, but the situation I changed into vacation into a tropical island where readers need to have a diving license or advanced swimming skills to enjoy the vacation. I used a different colour to distinguish someone speaking either by themself or in a conversation between other people and the narrative story. I also put some intro to describe the situation on the beach before the reader starts the game to choose which path they want. Below is the screenshot of the game that I build.</p>
 <center><img src="images/adventure game.png?raw=true"/></center>
 ---
+<br></br>
 <center> © 2022 Titi.</center>
