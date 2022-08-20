@@ -22,9 +22,6 @@
 ### Data Visualisation -  EarthQuake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <p align="justify">This project is my first assignment to do data preprocessing.We use dataset Earthquake from Kaggle. At beginning after we import libraries and dataset, likewise we clean our dataset and then change the datetime formatinto</p>
 <center><img src="images/DV assignment.png?raw=true"/></center>
 
