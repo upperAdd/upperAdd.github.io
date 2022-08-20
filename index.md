@@ -23,7 +23,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my first assignment to do data preprocessing.We use dataset Earthquake from Kaggle,</p>
-<center><img src="images/?raw=true"/></center>
+<center><img src="images/DV assignment.png?raw=true"/></center>
 
 ---
 ### Python Game - Adventure Game
