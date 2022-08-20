@@ -1,5 +1,5 @@
-# PORTFLIO
-## The Sample of My Projects
+# The Portfolio of My Projects
+## 
 
 
 ---
@@ -19,7 +19,13 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+---
+### Linear Regression -  JFK Flight Delay 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Linear-Regression-Assignment)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="justify">
+</p>
+<center><img src="images/.png?raw=true"/></center>
 ---
 ### Data Visualisation -  EarthQuake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
