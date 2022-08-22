@@ -18,8 +18,8 @@
         
         {% if site.logo %}
           <center>
-            <img src="{{site.logo | relative_url}}" alt="Logo" height = "300px"/>
-           </center>
+            <img src="{{site.logo | relative_url}}" alt="Logo" height = "300px" class = "center"/>
+          </center>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
