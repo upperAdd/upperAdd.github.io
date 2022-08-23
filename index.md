@@ -30,7 +30,7 @@
 </p>
 <center><img src="images/fake news.png?raw=true"/></center>
 
-<br>
+
 ---
 ### Neural Network -  Churn Prediction
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
@@ -38,7 +38,7 @@
 <p align="justify">This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. For this project, we need to use Artificial Neural Network (ANN) or be familiar with Neural Network for machine learning modelling. After data preprocessing, we scale and split the dataset (70/30 test) on the data wrangling process. To check the result, I decided to use machine learning models: decision tree, logistic regression and support vector machines.</p>
 <center><img src="images/ANN.png?raw=true"/></center>
 
-<br>
+
 ---
 ### Logistic Regression -  Titanic
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Logistic-Regression-Assignment)
@@ -46,7 +46,7 @@
 <p align="justify">Titanic are the most popular case to study logistic regression. Likewise, the dataset for titanic we get from Kaggle. The aim of this assignment is to predict the survivor when it happens. For this logistic regression for feature engineering, we need to do cross-validation using GridSearchCV, and then after that, we split our data set by 70/30 train and test data. We also need to check the accuracy of our score. Besides logistic regression, we also use naïve Bayes to compare the value.</p>
 <center><img src="images/logistic.png?raw=true"/></center>
 
-<br>
+
 ---
 ### Linear Regression -  JFK Flight Delay 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Linear-Regression-Assignment)
@@ -54,7 +54,7 @@
 <p align="justify">This project also used a dataset from Kaggle and the dataset from JFK Airport between Nov 2019 – Dec 2020. The aim of this assignment is to check what potential direct impact the cost of the flight. As we know, the taxiing process in airlines consumes 5-10% of total fuel consumption, and Total Fuel Consumption takes 30% of the Total Operation Cost of each aircraft. Therefore, we can conclude that efficiently taxiing can reduce the TOC. In this project, I am trying to see which airlines often delay departure from their scheduled departures and try to predict the delay coefficient from their actual departures.</p>
 <center><img src="images/linear.png?raw=true"/></center>
 
-<br>
+
 ---
 ### Data Visualisation -  EarthQuake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
@@ -63,7 +63,7 @@
 </p>
 <center><img src="images/DV assignment.png?raw=true"/></center>
 
-<br>
+
 ---
 ### Python Game - Adventure Game
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Adventure-Game-DA_week-2)
@@ -72,5 +72,5 @@
 <center><img src="images/adventure game.png?raw=true"/></center>
 
 ---
-<br>
+
 <left> © 2022 Titi P.</left>
