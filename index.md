@@ -11,7 +11,7 @@
 ---
 
 ---
-## Bootcamps Projects
+## Python Projects
 <p align ="justify"> Below are most of the projects I learn through bootcamps, from introducing python as a programming language to machine learning.</p>
 
 ---
