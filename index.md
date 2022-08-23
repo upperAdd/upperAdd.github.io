@@ -28,7 +28,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">
 </p>
-<center><img src="images/.png?raw=true"/></center>
+<center><img src="images/fake news.png?raw=true"/></center>
 
 ---
 ### Neural Network -  Churn Prediction
