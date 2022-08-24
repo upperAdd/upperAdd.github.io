@@ -1,6 +1,6 @@
 #  A Sample of My Projects
 
-## 
+## Other Projects
 
 ### Category Name 2
 
@@ -9,11 +9,22 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
 ---
 
 ---
 ## Python Projects
 <p align ="justify"> Below are most of the projects I learn through bootcamps, from introducing python as a programming language to machine learning.</p>
+
+---
+### Machine Learning Unsupervised  -  Clustering Countries
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Machine-Learning-Unsupervised)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="justify">
+  
+</p>
+<center><img src="images/png?raw=true"/></center>
+
 
 ---
 ### Time Series Analysis  -  Electricity Wholesale prediction price
