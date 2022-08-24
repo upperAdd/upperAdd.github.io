@@ -19,8 +19,7 @@
 ### Time Series Analysis  -  Electricity Wholesale prediction price
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/final-project)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-</p>
+<p align="justify">For my final project, I choose Time Series analysis because I want to know what the average energy bill will be this winter. Therefore, I choose to use a Nordpool wholesale electricity price dataset from 2018 until the 6th of august 2022. According to Ofgem, wholesale prices are 40% of our energy bill. I split the dataset into 80/20 train and test data and used time series cross-validation for this project as we can’t use the grid search cross-validation. The reason for choosing this type is because time series data characteristic by the dependence of data observation are close in time. Using the standard K-fold cross-validation method would lead to an unreasonable correlation between training and testing instances, leading to poor estimation of generalizing error. The other engineering features I used are lag features, and I chose 3 times the fold due to the amount of train data used.</p>
 <center><img src="images/electricity.png?raw=true"/></center>
 
 ---
