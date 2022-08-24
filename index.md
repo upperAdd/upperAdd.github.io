@@ -14,7 +14,7 @@
 
 ---
 ## Python Projects
-<p align ="justify"> Below are most of the projects I learn through bootcamps, from introducing python as a programming language to machine learning.</p>
+<p align ="justify"> Below are most of the projects I learn either through bootcamps or self - interest, from introducing python as a programming language to machine learning.</p>
 
 ---
 ### Machine Learning Unsupervised  -  Clustering Countries
