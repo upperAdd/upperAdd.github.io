@@ -1,20 +1,7 @@
-#  A Sample of My Projects
+#  Portfolio
 
-## Other Projects
+### <p align ="justify"> A sample of my personal and work projects.</p>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
----
-## Python Projects
-<p align ="justify"> Below are most of the projects I learn either through bootcamps or self - interest, from introducing python as a programming language to machine learning.</p>
 
 ---
 ### Machine Learning Unsupervised  -  Clustering Countries
