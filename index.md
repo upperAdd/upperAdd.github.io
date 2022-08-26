@@ -58,7 +58,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my first assignment doing data pre-processing and data visualisation. We use the dataset from Kaggle. In data science, data pre-processing refers to the step from extracting a dataset from the source until we clean our dataset from any duplicated or missing values. After that, our dataset is ready to explore or what we used to call Exploratory Data Analysis. On my first EDA that showed on my pie chart, I checked the top five locations with the biggest magnitude and if those locations were under the “Ring of Fire” or just in the most seismic region. Astonishingly based on exploration data, those locations are not the most frequently intense tectonic activities. The top five locations where earthquakes often occur in sequences were in the same county in America, CA, with 3 locations in the same place, “The Geysers”.
 </p>
-<center><img src="images/DV assignment.png?raw=true"/></center>
+<center><img src="images/dv-eq.png?raw=true"/></center>
 
 
 ---
