@@ -1,6 +1,6 @@
 #  Portfolio
 
-### <p align ="justify"> A sample of my personal and work projects.</p>
+### A sample of my personal and work projects.</p>
 
 
 ---
