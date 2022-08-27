@@ -49,8 +49,15 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Linear-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project also used a dataset from Kaggle and the dataset from JFK Airport between Nov 2019 – Dec 2020. The aim of this assignment is to check what potential direct impact the cost of the flight. As we know, the taxiing process in airlines consumes 5-10% of total fuel consumption, and Total Fuel Consumption takes 30% of the Total Operation Cost of each aircraft. Therefore, we can conclude that efficiently taxiing can reduce the TOC. In this project, I am trying to see which airlines often delay departure from their scheduled departures and try to predict the delay coefficient from their actual departures.</p>
-<align="left"><img src="images/linear.png?raw=true"/></align="left">
-<align="right"><img src="images/FD.png?raw=true"/></align="right">
+<div id="banner" style="overflow: hidden;justify-content:space-around;">
+   <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+       <img src="linear.png">
+    </div>
+
+   <div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
+       <img src="FD.png">
+    </div>
+    </div>
 
 
 ---
