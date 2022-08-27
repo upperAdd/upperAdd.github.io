@@ -25,7 +25,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">In this digital era, we often can’t distinguish between hoax news and fact-finding news. Especially the spread of misinformation on social media platforms is an ever-growing problem. Organizations, politicians, individuals looking for personal gain and even certain news media outlets propagate fake news to sway people's decisions and distort events to fit a bias or prejudice. The authenticity of the news posted online cannot be definitively measured since the manual classification of news is tedious and time-consuming and is also subject to bias. Therefore, this assignment aims to use machine learning Supervised Random Forest regression and AdaBoost classifier.</p>
-<center><img src="images/fake news.png?raw=true"/></center>
+<center><img src="images/FN.png?raw=true"/></center>
 
 
 ---
