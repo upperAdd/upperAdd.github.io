@@ -41,7 +41,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Logistic-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">Titanic are the most popular case to study logistic regression. Likewise, the dataset for titanic we get from Kaggle. The aim of this assignment is to predict the survivor when it happens. For this logistic regression for feature engineering, we need to do cross-validation using GridSearchCV, and then after that, we split our data set by 70/30 train and test data. We also need to check the accuracy of our score. Besides logistic regression, we also use naïve Bayes to compare the value.</p>
-<center><img src="images/logistic.png?raw=true"/></center>
+<center><img src="images/T-LR.png?raw=true"/></center>
 
 
 ---
