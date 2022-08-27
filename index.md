@@ -33,7 +33,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. For this project, we need to use Artificial Neural Network (ANN) or be familiar with Neural Network for machine learning modelling. After data preprocessing, we scale and split the dataset (70/30 test) on the data wrangling process. To check the result, I decided to use machine learning models: decision tree, logistic regression and support vector machines.</p>
-<center><img src="images/churn.png?raw=true" width= 450px/></center>
+<center><img src="images/churn.png?raw=true" width= 500px/></center>
 <center><img src="images/ANN.png?raw=true"/></center>
 
 
