@@ -21,7 +21,7 @@
 <center><img src="images/EW.png?raw=true"/></center>
 
 ---
-### Machine Learning  -  Fake News
+### Machine Learning Supervised  -  Fake News
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">
