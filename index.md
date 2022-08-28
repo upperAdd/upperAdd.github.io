@@ -58,8 +58,7 @@ This project aims to predict the percentage of customer churn in the bank. Churn
 ### Data Visualisation -  Earthquake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">This project is my first assignment doing data pre-processing and data visualisation. We use the dataset from Kaggle. In data science, data pre-processing refers to the step from extracting a dataset from the source until we clean our dataset from any duplicated or missing values. After that, our dataset is ready to explore or what we used to call Exploratory Data Analysis. On my first EDA that showed on my pie chart, I checked the top five locations with the biggest magnitude and if those locations were under the “Ring of Fire” or just in the most seismic region. Astonishingly based on exploration data, those locations are not the most frequently intense tectonic activities. The top five locations where earthquakes often occur in sequences were in the same county in America, CA, with 3 locations in the same place, “The Geysers”.
-</p>
+<p align="justify">This project is my first assignment doing data preprocessing and data visualisation. We use the Earthquake dataset from Kaggle. The aim is to determine which location has the biggest magnitude and often occurs by doing exploratory data analysis after cleaning the dataset. We know which locations were under the “Ring of Fire” or just in the most seismic region from the EDA result.</p>
 <center><img src="images/dv-eq.png?raw=true"/></center>
 
 
