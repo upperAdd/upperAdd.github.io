@@ -23,8 +23,7 @@ The spread of misinformation & hoax on social media platforms is a large problem
 ### Neural Network -  Churn Prediction
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
+<p align="justify"> This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
 <img src="images/CP/ANN.png?raw=true"/> <img src="images/CP/confusion matrix.png?raw=true"/><br>
 <img src="images/CP/card.png?raw=true"/> <img src="images/CP/product.png?raw=true"/>
 
@@ -35,10 +34,13 @@ This project aims to predict the percentage of customer churn in the bank. Churn
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Logistic-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">Titanic are the most popular case to study logistic regression. Likewise, the dataset for titanic we get from Kaggle. The aim of this assignment is to predict the survivor when it happens. For this logistic regression for feature engineering, we need to do cross-validation using GridSearchCV, and then after that, we split our data set by 70/30 train and test data. We also need to check the accuracy of our score. Besides logistic regression, we also use naïve Bayes to compare the value.</p>
-<center><img src="images/TN.png?raw=true"/></center>
+<img src="images/LR/Lr.png?raw=true"/> <img src="images/LR/heatmap.png?raw=true"/><br>
+<img src="images/LR/sex.png?raw=true"/> <img src="images/LR/embark.png?raw=true"/>
+
 
 
 ---
+
 ### Linear Regression -  JFK Flight Delay 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Linear-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,6 +48,7 @@ This project aims to predict the percentage of customer churn in the bank. Churn
 <center><img src="images/Flight delay.png?raw=true"/></center>
 
 ---
+
 ### Data Visualisation -  Earthquake
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,11 +57,12 @@ This project aims to predict the percentage of customer churn in the bank. Churn
 
 
 ---
+
 ### Python Game - Adventure Game
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Adventure-Game-DA_week-2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my favourite assignment to learn python as a programming language. We need to create adventure games that make the reader try to go into several rooms and have some blockage on the way out. I created this game inspired by Alice in Wonderland, but the situation I changed into vacation into a tropical island where readers need to have a diving license or advanced swimming skills to enjoy the vacation.</p>
-<center><img src="images/AD game/komodo island.png?raw=true"/></center>
+
 <center><video src="images/AD game/AD.mp4" width= 600px height=600px autoplay controls></video></center>
 ---
 
