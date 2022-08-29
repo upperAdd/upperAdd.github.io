@@ -11,6 +11,20 @@
 
 ---
 
+### Machine Learning Supervised  -  Fake News
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="justify">
+The spread of misinformation & hoax on social media platforms is a large problem. Authentication of the news posted online is subject to bias and excessive time-consuming. Machine learning solves this problem. I have used supervised random forest regression and AdaBoost classifier to detect which one is a hoax and fake news among trustworthy and real news.</p>
+<img src="images/FN/adaboost.png?raw=true"/> <img src="images/FN/turstworthy.png?raw=true"/><br>
+<img src="images/FN/bigrams.png?raw=true"/> <img src="images/FN/type.png?raw=true"/>
+
+
+
+
+
+---
+
 ### Neural Network -  Churn Prediction
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,22 +33,9 @@ This project aims to predict the percentage of customer churn in the bank. Churn
 <img src="images/CP/ANN.png?raw=true"/> <img src="images/CP/confusion matrix.png?raw=true"/><br>
 <img src="images/CP/card.png?raw=true"/> <img src="images/CP/product.png?raw=true"/>
 
-
-
 ---
 
-### Machine Learning Supervised  -  Fake News
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-The spread of misinformation & hoax on social media platforms is a large problem. Authentication of the news posted online is subject to bias and excessive time-consuming. Machine learning solves this problem. I have used supervised random forest regression and AdaBoost classifier to detect which one is a hoax and fake news among trustworthy and real news.</p>
-<center><img src="images/FN.png?raw=true"/></center>
 
-
-
-
-
----
 ### Logistic Regression -  Titanic
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Logistic-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
