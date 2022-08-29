@@ -67,8 +67,6 @@ The spread of misinformation & hoax on social media platforms is a large problem
 
 ---
 
----
-
 ### Machine Learning Unsupervised  -  Clustering Countries
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Machine-Learning-Unsupervised)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
