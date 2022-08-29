@@ -45,7 +45,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Linear-Regression-Assignment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project also used a dataset from Kaggle and the dataset from JFK Airport between Nov 2019 – Dec 2020. The aim of this assignment is to check what potential direct impact the cost of the flight. As we know, the taxiing process in airlines consumes 5-10% of total fuel consumption, and Total Fuel Consumption takes 30% of the Total Operation Cost of each aircraft. Therefore, we can conclude that efficiently taxiing can reduce the TOC. In this project, I am trying to see which airlines often delay departure from their scheduled departures and try to predict the delay coefficient from their actual departures by using Linear Regression.</p>
-<center><img src="images/Flight delay.png?raw=true"/></center>
+<img src="images/linear/graph.png?raw=true"/> <img src="images/linear/equation.png?raw=true"/><br>
+<img src="images/linear/actual.png?raw=true"/> <img src="images/linear/dep.png?raw=true"/>
 
 ---
 
@@ -53,7 +54,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/DV_assigment)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my first assignment doing data preprocessing and data visualisation. We use the Earthquake dataset from Kaggle. The aim is to determine which location has the biggest magnitude and often occurs by doing exploratory data analysis after cleaning the dataset. We know which locations were under the “Ring of Fire” or just in the most seismic region from the EDA result.</p>
-<center><img src="images/dv-eq.png?raw=true"/></center>
+<img src="images/EQ/3 location.png?raw=true"/> <img src="images/EQ/scatterplot.png?raw=true"/><br>
+
 
 
 ---
@@ -62,7 +64,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Adventure-Game-DA_week-2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my favourite assignment to learn python as a programming language. We need to create adventure games that make the reader try to go into several rooms and have some blockage on the way out. I created this game inspired by Alice in Wonderland, but the situation I changed into vacation into a tropical island where readers need to have a diving license or advanced swimming skills to enjoy the vacation.</p>
-
 <center><video src="images/AD game/AD.mp4" width= 600px height=600px autoplay controls></video></center>
 
 ---
