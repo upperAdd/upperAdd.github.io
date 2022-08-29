@@ -14,13 +14,13 @@
 ### Machine Learning Supervised  -  Fake News
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-The spread of misinformation & hoax on social media platforms is a large problem. Authentication of the news posted online is subject to bias and excessive time-consuming. Machine learning solves this problem. I have used supervised random forest regression and AdaBoost classifier to detect which one is a hoax <img src="images/FN/trustworthy.png?raw=true"/><br>
+<p align="justify">The spread of misinformation & hoax on social media platforms is a large problem. Authentication of the news posted online is subject to bias and excessive time-consuming. Machine learning solves this problem. I have used supervised random forest regression and AdaBoost classifier to detect which one is a hoax.</p>
+<img src="images/FN/trustworthy.png?raw=true"/><br>
 <img src="images/FN/bigrams.png?raw=true"/> <img src="images/FN/type.png?raw=true"/>
 
 ---
   
-## Machine Learning Supervised  -  Fake News
+## Neural Networks  -  Churn Prediction
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify"> This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
