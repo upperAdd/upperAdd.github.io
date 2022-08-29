@@ -19,9 +19,9 @@ The spread of misinformation & hoax on social media platforms is a large problem
 <img src="images/FN/bigrams.png?raw=true"/> <img src="images/FN/type.png?raw=true"/>
 
 ---
-
-### Neural Network -  Churn Prediction
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
+  
+## Machine Learning Supervised  -  Fake News
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify"> This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
 <img src="images/CP/ANN.png?raw=true"/> <img src="images/CP/confusion matrix.png?raw=true"/><br>
@@ -64,9 +64,11 @@ The spread of misinformation & hoax on social media platforms is a large problem
 <p align="justify">This project is my favourite assignment to learn python as a programming language. We need to create adventure games that make the reader try to go into several rooms and have some blockage on the way out. I created this game inspired by Alice in Wonderland, but the situation I changed into vacation into a tropical island where readers need to have a diving license or advanced swimming skills to enjoy the vacation.</p>
 
 <center><video src="images/AD game/AD.mp4" width= 600px height=600px autoplay controls></video></center>
+
 ---
 
 ---
+
 ### Machine Learning Unsupervised  -  Clustering Countries
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Machine-Learning-Unsupervised)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
