@@ -5,12 +5,24 @@
 ### Time Series Analysis  -  Electricity Wholesale prediction price
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/final-project)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">For my final project, I choose Time Series analysis because I want to know what the average energy bill will be this winter. Therefore, I choose to use a Nordpool wholesale electricity price dataset from 2018 until the 6th of august 2022. According to Ofgem, wholesale prices are 40% of our energy bill. I split the dataset into 80/20 train and test data and used time series cross-validation for this project as we can’t use the grid search cross-validation. The reason for choosing this type is because time series data characteristic by the dependence of data observation are close in time. Using the standard K-fold cross-validation method would lead to an unreasonable correlation between training and testing instances, leading to poor estimation of generalizing error. The other engineering features I used are lag features, and I chose 3 times the fold due to the amount of train data used.</p>
-<img src="images/EC/energy.png?raw=true"/>
+<p align="justify">A Time Series Analysis is used to predict the average energy bill for Winter 2022/2023. For this project, I used a Nordpool wholesale electricity price dataset from 2018 until the 6th of august 2022. According to Ofgem, wholesale prices are 40% of our energy bill. I split the dataset into 80/20 train and test data and used time series cross-validation for this project as we can’t use the grid search cross-validation. The reason for choosing this type is because time series data characteristic by the dependence of data observation are close in time. Using the standard K-fold cross-validation method would lead to an unreasonable correlation between training and testing instances, leading to poor estimation of generalising error. The other engineering features I used are lag features, and I chose 3 times the fold due to the amount of train data used.</p>
 <img src="images/EC/outputpredictionXGB.png?raw=true"/> <img src="images/EC/code.png?raw=true"/><br>
 <img src="images/EC/time series split.png?raw=true"/> <img src="images/EC/split train and test.png?raw=true"/>
 
 ---
+
+### Neural Network -  Churn Prediction
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="justify">
+This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
+<img src="images/CP/ANN.png?raw=true"/> <img src="images/CP/confusion matrix.png?raw=true"/><br>
+<img src="images/CP/card.png?raw=true"/> <img src="images/CP/product.png?raw=true"/>
+
+
+
+---
+
 ### Machine Learning Supervised  -  Fake News
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Fake-News-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,14 +31,7 @@ The spread of misinformation & hoax on social media platforms is a large problem
 <center><img src="images/FN.png?raw=true"/></center>
 
 
----
-### Neural Network -  Churn Prediction
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Neural-Networks)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-This project aims to predict the percentage of customer churn in the bank. Churn is a terminology that is commonly used in business companies. Churn rate is the rate at which customers stop doing business with a company over a given period of time. It can also describe customers stopping or cancelling subscriptions. And the result of this is money loss for the company. I decided to use machine learning ANN (Artificial Neural Network) to predict this behaviour, so the company can create a strategy to minimise churn.</p>
-<center><img src="images/churn.png?raw=true" width= 720px/></center>
-<center><img src="images/ANN.png?raw=true"/></center>
+
 
 
 ---
