@@ -2,6 +2,13 @@
 
 ### A sample of my personal and work projects.
 
+### Machine Learning Unsupervised  -  Clustering [PCA-Kmeans-Hierarachial]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Unsupervised---clustering)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+
 ### Time Series Analysis  -  Electricity Wholesale prediction price
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/final-project)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
