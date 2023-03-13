@@ -7,7 +7,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<img src="images/country/exim-gdp.png?raw=true"/> <img src="images/country/bivariated.png?raw=true"/><br>
+<img src="images/country/elbow.png?raw=true"/> <img src="images/country/scatterplot.png?raw=true"/>
 
+---
 
 ### Time Series Analysis  -  Electricity Wholesale prediction price
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/final-project)
