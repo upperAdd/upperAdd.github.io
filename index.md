@@ -5,7 +5,7 @@
 ### Machine Learning Unsupervised  -  Clustering [PCA-Kmeans-Hierarachial]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Unsupervised---clustering)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<p align="justify">This project aim to find .</p>
 
 <img src="images/country/exim-gdp.png?raw=true"/> <img src="images/country/bivariated.png?raw=true"/><br>
 <img src="images/country/elbow.png?raw=true"/> <img src="images/country/scatterplot.png?raw=true"/>
@@ -75,17 +75,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="justify">This project is my favourite assignment to learn python as a programming language. We need to create adventure games that make the reader try to go into several rooms and have some blockage on the way out. I created this game inspired by Alice in Wonderland, but the situation I changed into vacation into a tropical island where readers need to have a diving license or advanced swimming skills to enjoy the vacation.</p>
 <img src="images/AD game/game.png?raw=true"/> <img src="images/AD game/text game.png?raw=true"/><br>
-
-
----
-
-### Machine Learning Unsupervised  -  Clustering Countries
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Machine-Learning-Unsupervised)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">
-  
-</p>
-<center><img src="images/png?raw=true"/></center>
 
 
 ---
