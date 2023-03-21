@@ -5,7 +5,7 @@
 ### Machine Learning Unsupervised  -  Clustering [PCA-Kmeans-Hierarachial]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upperAdd/Unsupervised---clustering)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p align="justify">This project aim to find .</p>
+<p align="justify">This project aim to categorise the countries using socio-economic and health factors that determine the overall development of the country. I decide used dendogram to double check if my clustering use PCA and Kmeans result are correct.</p>
 
 <img src="images/country/exim-gdp.png?raw=true"/> <img src="images/country/bivariated.png?raw=true"/><br>
 <img src="images/country/elbow.png?raw=true"/> <img src="images/country/scatterplot.png?raw=true"/>
